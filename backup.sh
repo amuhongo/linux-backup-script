@@ -1,6 +1,4 @@
 
-- `backup.sh`:
-```bash
 #!/bin/bash
 
 DIR=$1
